@@ -1,0 +1,18 @@
+export const ROUTES = {
+  HOME: 'Home',
+  SIGN_IN_SCREEN: 'SignInScreen',
+  SIGN_UP_SCREEN: 'SignUpScreen',
+  OTP_SCREEN: 'OtpScreen',
+  AUTH_STACK: 'AuthStack',
+  HOME_STACK: 'HomeStack',
+  DASHBOARD_SCREEN: 'Home',
+  SIGN_UP_CONFIRM_SCREEN: 'SignUpConfirmScreen',
+  ADD_FIR_SCREEN: 'AddFirScreen',
+  FIR_HISTORY_SCREEN: 'HistoryScreen',
+  ADMIN_SCREEN: 'AdminScreen',
+  SETTINGS_SCREEN: 'SettingsScreen',
+  CONTECT_SCREEN: 'ContectScreen',
+  CREATE_USER: 'CreateUserScreen',
+  GET_ALL_USER: 'GetallUserScreen',
+  UPDATE_USER: 'UpdateUserDetailsScreen',
+}

@@ -1,0 +1,6 @@
+{
+    "name": "@containers",
+    "devDependencies": {
+        "@types/react-native-snap-carousel": "^3.8.5"
+    }
+}

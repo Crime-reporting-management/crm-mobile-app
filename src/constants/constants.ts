@@ -1,0 +1,15 @@
+export const Images = {
+  logo: require('../assets/imgs/logo.png'),
+  verify: require('../assets/imgs/verify.png'),
+  profile: require('../assets/imgs/profile.png'),
+  complaint: require('../assets/imgs/complaint.png'),
+  fir: require('../assets/imgs/FIR.png'),
+  firhistory: require('../assets/imgs/history.png'),
+  setting: require('../assets/imgs/gear.png'),
+  Info: require('../assets/imgs/info.png'),
+  Home: require('../assets/imgs/home.png'),
+  contacts: require('../assets/imgs/contact.png'),
+  done: require('../assets/imgs/done.png'),
+  google: require('../assets/imgs/google.png'),
+  verifyed: require('../assets/imgs/verifyed.png'),
+}
